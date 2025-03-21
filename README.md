@@ -15,16 +15,6 @@ Training Data: 8,871 customer records
 Test Data: Not used (Unsupervised learning)  
 Features: Various customer financial metrics, including:
 
-- **Balance**: Current balance on the customer’s credit card.
-- **Purchases**: Total purchases made by the customer.
-- **One-off Purchases**: Total one-time purchases.
-- **Installments Purchases**: Total installment-based purchases.
-- **Cash Advance**: Total amount of cash withdrawn by the customer.
-- **Credit Limit**: Customer’s credit limit.
-- **Payments**: Payments made by the customer.
-- **Minimum Payments**: Minimum required payments on the credit card.
-- **Tenure**: Length of time the customer has been with the bank.
-
 **Target Variable**: None (Unsupervised learning)
 
 Key Features:
